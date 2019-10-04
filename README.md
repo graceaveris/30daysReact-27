@@ -1,6 +1,6 @@
 **Day Twenty Seven - 30 days of React challenge - Geography App using nested routes to display data from API**
 
-A react app with a website feel, shows nested routes as url and calls data from restcountries.au API depending on the routes selected. See facts about various countries and continents.
+A react app with a website feel, shows nested routes as url and calls data from restcountries.au API depending on the routes selected. See facts about various countries and continents.  
 
 **Concepts Explored:**
 
